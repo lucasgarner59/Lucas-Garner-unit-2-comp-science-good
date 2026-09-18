@@ -6,8 +6,7 @@ import simpleIO.Console;
  * Date: September 17 2026
  * Course: ICS3U
  * HelloWorld.java
- * A first 
- * Java Program
+ * A first Java Program
  * 
  */
 public class HelloWorld {

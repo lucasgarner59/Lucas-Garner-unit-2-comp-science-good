@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package activity2;
+
+/**
+ * 
+ */
+public class Distance {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
