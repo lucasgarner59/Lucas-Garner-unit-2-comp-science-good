@@ -12,12 +12,12 @@ import simpleIO.Console;
 public class HelloWorld {
 
 	/**
-	 * @param args command line argument
+	 * @param args
 	 */
 	public static void main(String[] args) {
 		// Output for user
 		
-		Console.print("Hello World!");
+		Console.print("Hello World!"); 
 
 	}
 
